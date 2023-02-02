@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @SpandanM110
-- 👀 I’m interested in making my own programs
-- 🌱 I’m currently learning python programming
-- 💞️ I’m looking to collaborate with any company whatever it needs
-- 📫 How to reach me instagram id: slit_of_sunshine
+Hello Github!
+This is Spandan Mukherjee A.K.A SpandanM110.
+Well at present I am a Web Developer and a UI/UX designer.
+I had worked on some small AI projects specially had hands on Computer Vision.
+Now at present learning to be a FullStack Developer
+Will be starting Android development soon!
+
+You can reach me on instagram: slit_of_sunshine
+''''''''''''''''''' twitter: magellanic_tech
+''''''''''''''''''' email_id: spandanmukherjee2003@gmail.com
