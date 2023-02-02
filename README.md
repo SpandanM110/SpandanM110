@@ -5,6 +5,4 @@ I had worked on some small AI projects specially had hands on Computer Vision.
 Now at present learning to be a FullStack Developer
 Will be starting Android development soon!
 
-You can reach me on instagram: slit_of_sunshine
-''''''''''''''''''' twitter: magellanic_tech
-''''''''''''''''''' email_id: spandanmukherjee2003@gmail.com
+You can reach me: spandanmukherjee2003@gmail.com
