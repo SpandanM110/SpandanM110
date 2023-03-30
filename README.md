@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/95229740/228725550-601fcc47-9f94-4d05-b03f-4621b39ef85a.png)
+![image](https://user-images.githubusercontent.com/95229740/228726051-de13b649-160d-4d42-bc3a-b458ae548474.png)
 
 Hello Github!
 This is Spandan Mukherjee A.K.A SpandanM110.
