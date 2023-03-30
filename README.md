@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/95229740/228724543-363001e5-cdb9-4696-8a22-0d0a457415ea.png)
+
 Hello Github!
 This is Spandan Mukherjee A.K.A SpandanM110.
 Well at present I am a Web Developer and a UI/UX designer.
