@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **APIS, UI/UX, Development and Project Ideas**
 
-- ⚡ Fun fact **I keep secrets!**
+- ⚡ Fun fact **When you follow I follow you back!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
