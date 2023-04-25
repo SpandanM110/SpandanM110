@@ -21,6 +21,8 @@
 
 - ⚡ Fun fact **When you follow I follow you back!**
 
+- ❤️ Blogger @medium @hashnode
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
