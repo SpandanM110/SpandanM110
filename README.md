@@ -25,6 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Blog Post 1](https://medium.com/@spandanmukherjee2003/open-source-from-origins-to-innovation-d566aadcc6ba)
+- [Blog Post 2](https://medium.com/@spandanmukherjee2003/the-rise-of-low-code-and-no-code-startups-dd24aebd033b)
+- [Blog Post 3](https://medium.com/@spandanmukherjee2003/blockchain-transforming-the-world-before-and-after-44a8654ccc7b)
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
