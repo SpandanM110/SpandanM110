@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://spandan-mukherjee.netlify.app/](https://spandan-mukherjee.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@spandanmukherjee2003](https://medium.com/@spandanmukherjee2003)
+- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@InnovateSaga)
 
 - 💬 Ask me about **APIS, UI/UX, Development and Project Ideas**
 
