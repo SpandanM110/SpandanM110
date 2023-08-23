@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spandanm110" alt="spandanm110" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/spandan_twts" target="blank"><img src="https://img.shields.io/twitter/follow/spandan_twts?logo=twitter&style=for-the-badge" alt="spandan_twts" /></a> </p>
+
 
 - 🔭 I’m currently working on [https://de-school-mate-tau.vercel.app/](https://de-school-mate-tau.vercel.app/)
 
-- 🌱 I’m currently learning **Flask, Django and React**
+- 🌱 I’m currently learning **React, Next and Web3**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
