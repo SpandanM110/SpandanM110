@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [https://de-school-mate-tau.vercel.app/](https://de-school-mate-tau.vercel.app/)
+- 🔭 I’m currently working on [buildspace week #2 toy](https://ros-ai-toy-week2.netlify.app/)
 
 - 🌱 I’m currently learning **React, Next and Web3**
 
