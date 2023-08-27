@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spandanm110" alt="spandanm110" /></a> </p>
 
-<br><br><br>
 
-- 🔭 I’m currently working on [buildspace week #2 toy](https://ros-ai-toy-week2.netlify.app/)
+
+- 🔭 I’m currently working on [buildspace](https://ros-ai.netlify.app/)
 
 - 🌱 I’m currently learning **React, Next and Web3**
 
