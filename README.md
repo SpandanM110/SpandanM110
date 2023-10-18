@@ -29,11 +29,20 @@
 <br />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spandanm110" alt="spandanm110" /></a> </p>
 
----
+ <p>
+  <img width="250" align='left' src="eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16ZXJwM3EzMDUwMGZsZHZ4d2JwZTdhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=.webp">
+</p>
+ 
+### Compassionate Contributor Rule
+
+I'm a passionate advocate for open source with a twist. I follow what I call the "Compassionate Contributor Rule." It's all about making empathetic contributions to open source projects. I seek out issues that might go unnoticed, but could cause frustration for fellow developers. Additionally, I prioritize creating onboarding resources that not only educate but also inspire, making the open source experience more enjoyable and accessible for all. ❤️🌟
+
+ ---
 
 
 <a href="https://app.daily.dev/SpandanM110"><img src="https://api.daily.dev/devcards/d615470bfbfc4df8993b840713a010a6.png?r=dk5" width="400" alt="Spandan Mukherjee's Dev Card"/></a>
 <img src="life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
+<img align="right" alt="PC GIF" src="PC.gif" width="290" />
 
 
 <br />
