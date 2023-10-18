@@ -1,15 +1,18 @@
 <h1 align="center">Hi there, I'm Spandan Mukherjee! 👋</h1>
-<h3 align="center">A passionate Software and Tech Enthusiast from India</h3>
+<h3 align="center">I am a passionate Designer and a self learned Developer </h3>
+
+---
 
 [![An image of @spandanm110's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spandanm110)](https://holopin.io/@spandanm110)
 
-<br />
 
 
 
+---
 
+<h3>My Present Work Status</h3>
 
-- 🔭 I’m currently working on Open Source Contributions and also as a Hacktoberfest Project Mainatainer of [De-Schoolmate](https://github.com/SpandanM110/De-SchoolMate.git)
+- 🔭 I’m currently working on Open Source Contributions and also as a Hacktoberfest Project Mainatainer.
 
 - 🌱 I’m currently learning **React, Electron JS and Web3 Tech**
 
@@ -22,10 +25,11 @@
 - 💬 Ask me about **Web3, UI/UX, Web Development and Project Ideas**
 
 - ⚡ Fun fact **I keep secrets!**
-
+---
 <br />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spandanm110" alt="spandanm110" /></a> </p>
 
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,6 +43,10 @@
 <a href="https://medium.com/@spandanmukherjee200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@spandanmukherjee200" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/spandanmukherjee51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="spandanmukherjee51" height="30" width="40" /></a>
 </p>
+
+
+
+
 <br />
 <br />
 <h3 align="left">Languages and Tools:</h3>
