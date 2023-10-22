@@ -29,6 +29,13 @@
 
 - ⚡ Fun fact **I keep secrets!**
 ---
+<h3> Latest Blogs </h3>
+<div align="center">
+<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=spandanmukherjee2003&theme=radical" alt="Layout with last medium posts"  />
+</div>
+
+---
+<h3>Work Stats</h3>
 <br />
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=SpandanM110&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -42,8 +49,9 @@
 
 
 ---
+
  <p>
-  <img width="250" align='left' src="eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16ZXJwM3EzMDUwMGZsZHZ4d2JwZTdhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=.webp">
+  <img width="200" align='left' src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16ZXJwM3EzMDUwMGZsZHZ4d2JwZTdhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=">
 </p>
 
 ### Compassionate Contributor Rule
