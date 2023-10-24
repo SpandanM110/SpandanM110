@@ -29,10 +29,23 @@
 
 - ⚡ Fun fact **I keep secrets!**
 ---
+<div align="center">
+  <h3>My Free Newsletter</h3>
+
+  <img src="https://public-files.gumroad.com/q7b7zvbxg56yj7u7ujo1r8uvx5gl" alt="Image Description" width="200" height="150">
+
+  [Visit Source Code Digest](https://www.sourcecodedigest.com/)
+</div>
+
+
+
 <h3> Latest Blogs </h3>
 <div align="center">
-<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=spandanmukherjee2003&theme=radical" alt="Layout with last medium posts"  />
+<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&username=spandanmukherjee2003&theme=radical" alt="Layout with last medium posts"  />
 </div>
+
+
+
 
 ---
 <h3>Work Stats</h3>
