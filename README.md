@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on **Hackathons and Open Source Contributions**
 
-- 👨‍💻 All of my projects are available at [https://spandan-mukherjee.netlify.app/](https://spandan-mukherjee.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://spandanm110.vercel.app/)
 
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@InnovateSaga) and [Medium](https://medium.com/@spandanmukherjee2003).
 
