@@ -10,7 +10,7 @@
 
 ---
 <div align="center">
-<img src="https://profile-counter.glitch.me/SpandanM110/count.svg?"  />
+[<img src="https://profile-counter.glitch.me/SpandanM110/count.svg?"  />](https://api.daily.dev/devcards/d615470bfbfc4df8993b840713a010a6.png?r=zbp)
 </div>
 
 
