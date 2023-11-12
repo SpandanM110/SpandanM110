@@ -76,7 +76,7 @@ I'm a passionate advocate for open source with a twist. I follow what I call the
 
 <br clear="both">
 
-<img align="right" height="330" width="280" src="https://api.daily.dev/devcards/d615470bfbfc4df8993b840713a010a6.png?r=dk5"  />
+<img align="right" height="330" width="280" src="https://api.daily.dev/devcards/d615470bfbfc4df8993b840713a010a6.png?r=zbp"   />
 
 ### 
 
