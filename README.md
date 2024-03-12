@@ -30,32 +30,31 @@
 
 - ⚡ Fun fact **I keep secrets!**
 ---
-<div align="center">
-  <h3>My Free Newsletter</h3>
+# My Free Newsletter
+
+<div align="left">
+
 
   <img src="https://public-files.gumroad.com/q7b7zvbxg56yj7u7ujo1r8uvx5gl" alt="Image Description" width="200" height="150">
-
-  [Visit Source Code Digest](https://www.sourcecodedigest.com/)
+  <a href="https://www.sourcecodedigest.com/"> ❤️❤️Let's Read a while ❤️❤️ </a>
 </div>
 
 
 
-<h3> Latest Blogs </h3>
+<h3> Github Stats </h3>
 <div align="center">
-<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&username=spandanmukherjee2003&theme=radical" alt="Layout with last medium posts"  />
+
+
+[![GitHub Stats](https://stats.quine.sh/SpandanM110/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SpandanM110)
+[![SpandanM110's GitHub | Dependencies](https://stats.quine.sh/SpandanM110/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SpandanM110)
+
 </div>
 
 
 
 
 ---
-<h3>Work Stats</h3>
-<br />
-<div align="left">
 
-<img src="https://streak-stats.demolab.com?user=SpandanM110&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SpandanM110&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 <br />
 <div style="display: flex; align-items: center;">
   <p style="margin: 0;"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spandanm110" alt="spandanm110" /></a></p>
@@ -119,8 +118,8 @@ I'm a passionate advocate for open source with a twist. I follow what I call the
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+
+
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
 <img width="12" />
