@@ -1,5 +1,6 @@
-<h1 align="center">Hi there, I'm Spandan Mukherjee! 👋</h1>
-<h3 align="center">I am a passionate Designer and a self learned Developer </h3>
+<h1 align="center">Hello There! I'm Spandan Mukherjee! 🚀 <br>
+Hope your coding journey is filled with fantastic commits and seamless merges! Keep coding! 👋👋</h1>
+<h3 align="center">I am just a Simple Developer and a Passionate Innovator who finds crazy on discorvering new Technologies. </h3>
 
 ---
 
