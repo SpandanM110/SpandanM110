@@ -45,12 +45,22 @@ Hope your coding journey is filled with fantastic commits and seamless merges! K
 <h3> Github Stats </h3>
 <div align="center">
 
-
 [![GitHub Stats](https://stats.quine.sh/SpandanM110/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SpandanM110)
 [![SpandanM110's GitHub | Dependencies](https://stats.quine.sh/SpandanM110/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SpandanM110)
 
 </div>
 
+<div align="center">
+
+<a href="https://stats.quine.sh/SpandanM110/languages-over-time?theme=dark">
+  <img src="https://stats.quine.sh/SpandanM110/languages-over-time?theme=dark" alt="Languages Over Time" width="450">
+</a>
+
+<a href="https://stats.quine.sh/SpandanM110/topics-over-time?theme=dark">
+  <img src="https://stats.quine.sh/SpandanM110/topics-over-time?theme=dark" alt="Topics Over Time" width="450">
+</a>
+
+</div>
 
 
 
