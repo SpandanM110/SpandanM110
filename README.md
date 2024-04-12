@@ -1,6 +1,6 @@
 <h1 align="center">Hello There! I'm Spandan Mukherjee! 🚀 <br>
 Hope your coding journey is filled with fantastic commits and seamless merges! Keep coding! 👋👋</h1>
-<h3 align="center">I am just a Simple Developer and a Passionate Innovator who finds crazy on discorvering new Technologies. </h3>
+<h3 align="center">I am just a Simple Developer and a Passionate Innovator who finds crazy on discovering new Technologies. </h3>
 
 ---
 
@@ -53,17 +53,17 @@ Hope your coding journey is filled with fantastic commits and seamless merges! K
 <div align="center">
 
 <a href="https://stats.quine.sh/SpandanM110/languages-over-time?theme=dark">
-  <img src="https://stats.quine.sh/SpandanM110/languages-over-time?theme=dark" alt="Languages Over Time" width="450">
+  <img src="https://stats.quine.sh/SpandanM110/languages-over-time?theme=dark" alt="Languages Over Time" width="400">
 </a>
 
 <a href="https://stats.quine.sh/SpandanM110/topics-over-time?theme=dark">
-  <img src="https://stats.quine.sh/SpandanM110/topics-over-time?theme=dark" alt="Topics Over Time" width="450">
+  <img src="https://stats.quine.sh/SpandanM110/topics-over-time?theme=dark" alt="Topics Over Time" width="400">
 </a>
 
 </div>
 
 
-
+## Well Some Of My Simple Stats
 ---
 
 <br />
