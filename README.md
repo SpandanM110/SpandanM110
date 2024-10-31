@@ -30,17 +30,6 @@ Hope your coding journey is filled with fantastic commits and seamless merges! K
 - 💬 Ask me about **Web3, UI/UX, Web Development and Project Ideas**
 
 - ⚡ Fun fact **I keep secrets!**
----
-# My Free Newsletter
-
-<div align="left">
-
-
-  <img src="https://public-files.gumroad.com/q7b7zvbxg56yj7u7ujo1r8uvx5gl" alt="Image Description" width="200" height="150">
-  <a href="https://www.sourcecodedigest.com/"> ❤️❤️Let's Read a while ❤️❤️ </a>
-</div>
-
-
 
 <h3> Github Stats </h3>
 <div align="center">
@@ -62,10 +51,7 @@ Hope your coding journey is filled with fantastic commits and seamless merges! K
 
 </div>
 
-
 ## Well Some Of My Simple Stats
----
-
 <br />
 <div style="display: flex; align-items: center;">
   <p style="margin: 0;"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spandanm110" alt="spandanm110" /></a></p>
