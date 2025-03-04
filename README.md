@@ -53,7 +53,7 @@ const Spandan_Mukherjee = {
 </div>
 
 <details open align="center">
-  <summary>📈 More Stats</summary>
+  <summary>📈 Some Stats</summary>
   <br>
  
 <p align="center">
