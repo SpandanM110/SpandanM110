@@ -1,6 +1,8 @@
 <h1 align="center">Hello There! I'm Spandan Mukherjee! 🚀 <br>
 Hope your coding journey is filled with fantastic commits and seamless merges! Keep coding! 👋👋</h1>
-<h3 align="center">I am just a Simple Developer and a Passionate Innovator who finds crazy on discovering new Technologies. </h3>
+<div align="center">
+<img src="https://profile-counter.glitch.me/SpandanM110/count.svg?"  />
+</div>
 
 ---
 
@@ -10,52 +12,71 @@ Hope your coding journey is filled with fantastic commits and seamless merges! K
 
 
 ---
-<div align="center">
-<img src="https://profile-counter.glitch.me/SpandanM110/count.svg?"  />
-</div>
 
 
-<h3>My Present Work Status</h3>
+## Who I Am 😎
+```ts
+const Spandan_Mukherjee = {
+  summary    : 'Developer and a tech enthusiast learner',
+  roles      : ['Full-Stack Developer', 'Problem Solver', 'GEN AI Developer', 'Blockchain Developer', 'App Developer' ],
+  interests  : [ 'LLMs', 'Docker', 'Full-Stack', 'new_tech conferences', 'new products', 'new softwares','Open Mic Tech Sessions'],
+  key_values : ['collaborative', 'creative','tech-support',' ],
+  type_check : true && '~ 𝚖𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎 𝚛𝚞𝚕𝚎𝚜 ~',
+  nickname   : ( 'Larry' || 'Anything likewise till it not gets annoying' ),
+}
+```
 
-- 🔭 I’m currently working on Open Source Contributions and also as a Hacktoberfest Project Mainatainer.
+## My Recent Projects
 
-- 🌱 I’m currently learning **React, Electron JS and Web3 Tech**
-
-- 👯 I’m looking to collaborate on **Hackathons and Open Source Contributions**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://spandanm110.vercel.app/)
-
-- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@InnovateSaga) and [Medium](https://medium.com/@spandanmukherjee2003).
-
-- 💬 Ask me about **Web3, UI/UX, Web Development and Project Ideas**
-
-- ⚡ Fun fact **I keep secrets!**
-
-<h3> Github Stats </h3>
-<div align="center">
-
-[![GitHub Stats](https://stats.quine.sh/SpandanM110/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SpandanM110)
-[![SpandanM110's GitHub | Dependencies](https://stats.quine.sh/SpandanM110/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SpandanM110)
-
-</div>
-
-<div align="center">
-
-<a href="https://stats.quine.sh/SpandanM110/languages-over-time?theme=dark">
-  <img src="https://stats.quine.sh/SpandanM110/languages-over-time?theme=dark" alt="Languages Over Time" width="400">
+<div>
+<a target="_blank" href="https://github.com/SpandanM110/AI-Blog-versions">
+  <img height="80" alt="AI-Blog-versions repo" src="https://github-readme-stats.vercel.app/api/pin/?username=SpandanM110&repo=AI-Blog-versions" />
 </a>
-
-<a href="https://stats.quine.sh/SpandanM110/topics-over-time?theme=dark">
-  <img src="https://stats.quine.sh/SpandanM110/topics-over-time?theme=dark" alt="Topics Over Time" width="400">
+<a target="_blank" href="https://github.com/SpandanM110/InstaPy">
+  <img height="80" alt="InstaPy repo" src="https://github-readme-stats.vercel.app/api/pin/?username=SpandanM110&repo=InstaPy" />
 </a>
-
+<a target="_blank" href="https://github.com/SpandanM110/ChainInsight">
+  <img height="80" alt="ChainInsight repo" src="https://github-readme-stats.vercel.app/api/pin/?username=SpandanM110&repo=ChainInsight" />
+</a>
+<a target="_blank" href="https://github.com/SpandanM110/DEV-DOC-AI">
+  <img height="80" alt="DEV-DOC-AI repo" src="https://github-readme-stats.vercel.app/api/pin/?username=SpandanM110&repo=DEV-DOC-AI" />
+</a>
+<a target="_blank" href="https://github.com/SpandanM110/GGTalk">
+  <img height="80" alt="GGTalk repo" src="https://github-readme-stats.vercel.app/api/pin/?username=SpandanM110&repo=GGTalk" />
+</a>
+<a target="_blank" href="https://github.com/SpandanM110/Manga4U">
+  <img height="80" alt="Manga4U repo" src="https://github-readme-stats.vercel.app/api/pin/?username=SpandanM110&repo=Manga4U" />
+</a>
+<a target="_blank" href="https://github.com/SpandanM110/IN-CITY-PRO">
+  <img height="80" alt="IN-CITY-PRO repo" src="https://github-readme-stats.vercel.app/api/pin/?username=SpandanM110&repo=IN-CITY-PRO" />
+</a>
 </div>
 
-## Well Some Of My Simple Stats
-<br />
-<div style="display: flex; align-items: center;">
-  <p style="margin: 0;"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spandanm110" alt="spandanm110" /></a></p>
-</div>
+<details open align="center">
+  <summary>📈 More Stats</summary>
+  <br>
+ 
+<p align="center">
+<a href="https://github.com/SpandanM110"> 
+<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSpandanM110%2Fhit-counter&count_bg=%236EB9F2&title_bg=%2301102D&icon=workplace.svg&icon_color=%2341C350&title=Profile+Views+(since+03/2024)&edge_flat=true" width="">    
+</a></p>
+
+<p align="center">
+<div align="center">
+ <a href="https://github.com/SpandanM110"> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SpandanM110&theme=algolia" width="100%" /> </br></br>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SpandanM110&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SpandanM110&theme=algolia" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SpandanM110&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
+</br></br>
+ </a>
+
+
+ <div align="center">
+</p >
+
+</details>
 
 
 ---
