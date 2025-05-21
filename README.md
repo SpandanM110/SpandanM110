@@ -4,12 +4,10 @@ Hope your coding journey is filled with fantastic commits and seamless merges! K
 <img src="https://profile-counter.glitch.me/SpandanM110/count.svg?"  />
 </div>
 
----
 
-[![An image of @spandanm110's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spandanm110)](https://holopin.io/@spandanm110)
-
-
-
+<div align="center">
+<a href="https://app.daily.dev/spandanm110"><img src="https://api.daily.dev/devcards/v2/fAzMy3W2xsDzchHrtyLZZ.png?type=wide&r=i7j" width="750" alt="Spandan Mukherjee's Dev Card"/></a>
+</div>
 
 ---
 
@@ -17,7 +15,7 @@ Hope your coding journey is filled with fantastic commits and seamless merges! K
 ## Who I Am 😎
 ```ts
 const Spandan_Mukherjee = {
-  summary    : 'Developer and a tech enthusiast learner',
+  summary    : 'Full Stack Developer and a tech enthusiast learner',
   roles      : ['Full-Stack Developer', 'Problem Solver', 'GEN AI Developer', 'Blockchain Developer', 'App Developer' ],
   interests  : [ 'LLMs', 'Docker', 'Full-Stack', 'new_tech conferences', 'new products', 'new softwares','Open Mic Tech Sessions'],
   key_values : ['collaborative', 'creative','tech-support',' ],
