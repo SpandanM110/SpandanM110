@@ -48,6 +48,17 @@ const Spandan_Mukherjee = {
 <a target="_blank" href="https://github.com/SpandanM110/IN-CITY-PRO">
   <img height="80" alt="IN-CITY-PRO repo" src="https://github-readme-stats.vercel.app/api/pin/?username=SpandanM110&repo=IN-CITY-PRO" />
 </a>
+
+  <a target="_blank" href="https://github.com/SpandanM110/Flashcards-Play">
+  <img height="80" alt="Flashcards-Play repo" src="https://github-readme-stats.vercel.app/api/pin/?username=SpandanM110&repo=Flashcards-Play" />
+</a>
+<a target="_blank" href="https://github.com/SpandanM110/AI-Debate-Platform">
+  <img height="80" alt="AI-Debate-Platform repo" src="https://github-readme-stats.vercel.app/api/pin/?username=SpandanM110&repo=AI-Debate-Platform" />
+</a>
+<a target="_blank" href="https://github.com/SpandanM110/XDC-AI-DAO-RWAI">
+  <img height="80" alt="XDC-AI-DAO-RWAI repo" src="https://github-readme-stats.vercel.app/api/pin/?username=SpandanM110&repo=XDC-AI-DAO-RWAI" />
+</a>
+
 </div>
 
 <details open align="center">
