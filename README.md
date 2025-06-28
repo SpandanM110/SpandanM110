@@ -6,7 +6,7 @@ Hope your coding journey is filled with fantastic commits and seamless merges! K
 
 
 <div align="center">
-<a href="https://app.daily.dev/spandanm110"><img src="https://api.daily.dev/devcards/v2/fAzMy3W2xsDzchHrtyLZZ.png?type=wide&r=l92" width="652" alt="Spandan Mukherjee's Dev Card"/></a>
+<a href="https://app.daily.dev/spandanm110"><img src="https://api.daily.dev/devcards/v2/fAzMy3W2xsDzchHrtyLZZ.png?type=wide&r=4zi" width="652" alt="Spandan Mukherjee's Dev Card"/></a>
 </div>
 
 ---
