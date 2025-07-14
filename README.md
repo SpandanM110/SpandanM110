@@ -1,8 +1,6 @@
 <h1 align="center">Hello There! I'm Spandan Mukherjee! 🚀 <br>
 Hope your coding journey is filled with fantastic commits and seamless merges! Keep coding! 👋👋</h1>
-<div align="center">
-<img src="https://profile-counter.glitch.me/SpandanM110/count.svg?"  />
-</div>
+
 
 
 <div align="center">
