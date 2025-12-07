@@ -22,42 +22,6 @@ const Spandan_Mukherjee = {
 }
 ```
 
-## My Recent Projects
-
-<div>
-<a target="_blank" href="https://github.com/SpandanM110/AI-Blog-versions">
-  <img height="80" alt="AI-Blog-versions repo" src="https://github-readme-stats.vercel.app/api/pin/?username=SpandanM110&repo=AI-Blog-versions" />
-</a>
-<a target="_blank" href="https://github.com/SpandanM110/InstaPy">
-  <img height="80" alt="InstaPy repo" src="https://github-readme-stats.vercel.app/api/pin/?username=SpandanM110&repo=InstaPy" />
-</a>
-<a target="_blank" href="https://github.com/SpandanM110/ChainInsight">
-  <img height="80" alt="ChainInsight repo" src="https://github-readme-stats.vercel.app/api/pin/?username=SpandanM110&repo=ChainInsight" />
-</a>
-<a target="_blank" href="https://github.com/SpandanM110/DEV-DOC-AI">
-  <img height="80" alt="DEV-DOC-AI repo" src="https://github-readme-stats.vercel.app/api/pin/?username=SpandanM110&repo=DEV-DOC-AI" />
-</a>
-<a target="_blank" href="https://github.com/SpandanM110/GGTalk">
-  <img height="80" alt="GGTalk repo" src="https://github-readme-stats.vercel.app/api/pin/?username=SpandanM110&repo=GGTalk" />
-</a>
-<a target="_blank" href="https://github.com/SpandanM110/Manga4U">
-  <img height="80" alt="Manga4U repo" src="https://github-readme-stats.vercel.app/api/pin/?username=SpandanM110&repo=Manga4U" />
-</a>
-<a target="_blank" href="https://github.com/SpandanM110/IN-CITY-PRO">
-  <img height="80" alt="IN-CITY-PRO repo" src="https://github-readme-stats.vercel.app/api/pin/?username=SpandanM110&repo=IN-CITY-PRO" />
-</a>
-
-  <a target="_blank" href="https://github.com/SpandanM110/Flashcards-Play">
-  <img height="80" alt="Flashcards-Play repo" src="https://github-readme-stats.vercel.app/api/pin/?username=SpandanM110&repo=Flashcards-Play" />
-</a>
-<a target="_blank" href="https://github.com/SpandanM110/AI-Debate-Platform">
-  <img height="80" alt="AI-Debate-Platform repo" src="https://github-readme-stats.vercel.app/api/pin/?username=SpandanM110&repo=AI-Debate-Platform" />
-</a>
-<a target="_blank" href="https://github.com/SpandanM110/XDC-AI-DAO-RWAI">
-  <img height="80" alt="XDC-AI-DAO-RWAI repo" src="https://github-readme-stats.vercel.app/api/pin/?username=SpandanM110&repo=XDC-AI-DAO-RWAI" />
-</a>
-
-</div>
 
 <details open align="center">
   <summary>📈 Some Stats</summary>
